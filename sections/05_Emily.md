@@ -2,7 +2,7 @@
 
 * Emily Zhao, emilyzhao@nyu.edu
 * Time: Mondays 9:30AM - 12PM EST
-* Location: TBD
+* Location: Room 450
 * [Class Outlines and Homework Assignments](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-Emily)
 * [Office Hours]()
 
